@@ -1,4 +1,4 @@
-LabelImg
+LabelImg 使用方法参阅：https://github.com/John-Joe/System-Configuration/issues/4
 ========
 
 .. image:: https://img.shields.io/pypi/v/labelimg.svg
